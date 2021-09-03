@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/blog/2020-12-01-r-rmarkdown/</loc>
+    <loc>/blog/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/book/</loc>
+    <loc>/tags/book/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/creative/</loc>
+    <loc>/categories/creative/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/go-language/</loc>
+    <loc>/categories/go-language/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/html/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/blog/blog-post-2/</loc>
+    <loc>/blog/blog-post-2/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/blog/blog-post-3/</loc>
+    <loc>/blog/blog-post-3/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/blog/blog-post/</loc>
+    <loc>/blog/blog-post/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/new/</loc>
+    <loc>/tags/new/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/new-book/</loc>
+    <loc>/categories/new-book/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/photos/</loc>
+    <loc>/tags/photos/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/python/</loc>
+    <loc>/tags/python/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url>
 </urlset>

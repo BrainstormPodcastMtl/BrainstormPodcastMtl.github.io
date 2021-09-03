@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Brainstorm</title>
-    <link>https://examplesite.com/tags/python/</link>
+    <link>/tags/python/</link>
     <description>Recent content in Python on Brainstorm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2019 15:28:43 +0600</lastBuildDate><atom:link href="https://examplesite.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Nov 2019 15:28:43 +0600</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Awesome Blog Post</title>
-      <link>https://examplesite.com/blog/blog-post/</link>
+      <link>/blog/blog-post/</link>
       <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
       
-      <guid>https://examplesite.com/blog/blog-post/</guid>
+      <guid>/blog/blog-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
     </item>
     
