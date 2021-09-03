@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Brainstorm</title>
+    <link>https://examplesite.com/tags/</link>
+    <description>Recent content in Tags on Brainstorm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>plot</title>
+      <link>https://examplesite.com/tags/plot/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://examplesite.com/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>https://examplesite.com/tags/r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://examplesite.com/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>https://examplesite.com/tags/regression/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://examplesite.com/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book</title>
+      <link>https://examplesite.com/tags/book/</link>
+      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://examplesite.com/tags/html/</link>
+      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://examplesite.com/tags/new/</link>
+      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://examplesite.com/tags/photos/</link>
+      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://examplesite.com/tags/python/</link>
+      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
